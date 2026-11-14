@@ -1,0 +1,10 @@
+streamlit
+streamlit-folium
+folium
+google-genai
+pydantic
+pvlib
+timezonefinder
+polyline
+requests
+python-dotenv
